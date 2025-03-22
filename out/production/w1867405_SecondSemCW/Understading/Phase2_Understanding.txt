@@ -1,0 +1,26 @@
+CLASS  WestminsterSkinConsultationManager should contain the console;
+
+*) The console options are;
+
+   1. Add a new doctor : Adding a new doctor with relevant information.
+                         Maximum count is 10 doctors
+
+
+   2. Delete doctor    : Get the doctor's medical license number as input and delete the respective data.
+
+                         If the license is valid should display "Doctors data got deleted" and show doctor count.
+
+                         If the license is invalid, should return to the console
+
+
+   3. Print the list of the doctors    : Print all the stored information of each doctor.
+                                         List should order alphabetically according to doctors SURNAME
+
+
+   4. Saving everything in text file : the next time application start, it should be able to read the old text
+
+
+-----------------------------------------------------------------------------------------------------
+
+Implementing system functionalities through a console menu.
+Class (WestminsterSkinConsultation)

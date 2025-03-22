@@ -1,0 +1,39 @@
+*) User should be able to see the;
+
+   1. List of doctor with relative information
+   2. Should be able to sort alphabetically
+   3. Table will be good
+
+*) The user can select a doctor and add consultation to the doctor.
+
+*) User should be able to see the doctor's
+   1. Availability of the doctor
+      (Date, Time)
+   before booking
+
+*) If the doctor is not free then another doctor should automatically
+   get allocated who is available in that specific time and data
+
+ASSUMPTION : If there is no doctor available in user's selected time
+             program should display "No doctors available"
+
+===================================================================================================================
+
+IN EACH CONSULTATION
+--------------------
+
+*) User has to add the patient
+   information : Name, Surname, Date, DOB, Mobile no & Patient Unique ID
+
+*) Save the cost of the consultation, Consultation fee;
+   First consultation           : 15$ per hour
+   After the first consultation : 25$ per hour
+
+*) Adding a note : Can be textual or Image of the skin
+                   The information should be encrypted, can use API to encrypt the data
+
+*) After consultation saved, user should be able to check it
+
+-----------------------------------------------------------------------------------------------------
+
+Implementing GUI

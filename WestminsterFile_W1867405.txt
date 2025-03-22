@@ -1,0 +1,34 @@
+W1867405 Consultation booking - 2023-01-09
+════════════════════════════════════════
+Doctor added to the clinic :
+Doctor Name - Steve Job
+Dr.  Steve Job's License Number : 123
+Dr. Steve Job's specialisation : Skin care
+Dr. Steve Job's DOB : 1990-12-01
+Dr. Steve Job's Age : 33
+
+Doctor added to the clinic :
+Doctor Name - Nirusan  Hariharan
+Dr.  Nirusan  Hariharan's License Number : 2003
+Dr. Nirusan  Hariharan's specialisation : Skin care
+Dr. Nirusan  Hariharan's DOB : 1985-10-03
+Dr. Nirusan  Hariharan's Age : 38
+
+Doctor added to the clinic :
+Doctor Name - Luffy Monkey D
+Dr.  Luffy Monkey D's License Number : 456
+Dr. Luffy Monkey D's specialisation : Skin care
+Dr. Luffy Monkey D's DOB : 1994-10-02
+Dr. Luffy Monkey D's Age : 29
+
+Doctor added to the clinic :
+Doctor Name - Zoro Ronorara
+Dr.  Zoro Ronorara's License Number : 67
+Dr. Zoro Ronorara's specialisation : sdfs
+Dr. Zoro Ronorara's DOB : 1976-12-01
+Dr. Zoro Ronorara's Age : 47
+
+Doctor removed from the clinic +
+Doctor Name :  Nirusan  Hariharan
+Dr.  Nirusan  Hariharan's License Number : 2003
+

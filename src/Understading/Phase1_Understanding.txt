@@ -1,0 +1,60 @@
+*) Need to draw UML use case diagram
+*) Need to draw UML Class diagram
+-----------------------------------------------------------------------------------------------------
+
+CLASS & INTERFACE IMPLEMENTATIONS
+=====================
+
+*) SUPER CLASS : Person
+   SUB CLASS   : Doctor
+   SUB CLASS   : Patient
+   CLASS       : Consultation
+   CLASS       : WestminsterSkinConsultationManager
+   INTERFACE   : SkinConsultation
+
+*) The person class should have the ENCAPSULATION methods
+   to hold the information about;
+
+   1. Name
+   2. Surname
+   3. DOB
+   4. Mobile number
+   5. Other information
+
+*) Doctor SUB CLASS should hold the methods & information;
+
+   1. Medical License number of doctor
+   2. Which specialisation in dr field eg;
+      a. cosmetic dermatology
+      b. medical dermatology
+      c. paediatric dermatology
+   3. Other instance variables
+   4. Encapsulation : Getters and setters
+
+*) Patient SUBCLASS should hold the information & Methods;
+
+   1. Patient Unique ID as Instance Variable
+   2. Encapsulation : Getters and Setter
+
+
+*) Consultation CLASS should Represent;
+   A booked consultation with a specific doctor from a patient
+
+   Should hold the information about,
+   1. Date
+   2. Time slot for the consultation
+   3. Total cost
+   4. Notes
+   5. Encapsulation : Getters and Setters
+
+*) Class WestminsterSkinConsultation should IMPLEMENT SkinConsultation.
+
+*) WESTMINSTERSKINCONSULTATION mains the list of doctors and provide all the methods
+   for the system manager
+
+-----------------------------------------------------------------------------------------------------
+
+Involves initial design,
+UML Diagram
+Classes (Person, Doctor, Patient & Consultation)
+Interface (SkinConsultationManager)
